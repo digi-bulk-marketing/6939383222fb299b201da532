@@ -1,9 +1,14 @@
 # Digi-Button
 
-- Rebranding ID: 6939383222fb299b201da532
-- User ID: 692fd9a7f1674795f524d6f9
-- App name: Digi-Button
-- Product name: Button Sender
+Digi-Button by Digi-Labs.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/3d524e16-eabd-4c65-8aae-e2152577753a.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/3d524e16-eabd-4c65-8aae-e2152577753a.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/6939383222fb299b201da532/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Digi-Button** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/6939383222fb299b201da532/releases/latest) and reinstall.
